@@ -10,7 +10,7 @@ class Father{
 
 class Son extends Father{
     public function __construct(){
-        parent::__construct();
+        //parent::__construct();
         echo "This is Son construction "; 
     }
 }
