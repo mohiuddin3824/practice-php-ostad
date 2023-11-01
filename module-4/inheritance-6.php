@@ -7,8 +7,8 @@ class myClass{
     }
 }
 
-$myObj = new myClass();
-$myObj->myName();
+//$myObj = new myClass();
+//$myObj->myName();
 
 //Hot connection
 myClass::myName();
